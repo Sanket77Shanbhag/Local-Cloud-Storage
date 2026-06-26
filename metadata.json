@@ -1,0 +1,6 @@
+{
+  "name": "Local File Explorer",
+  "description": "A complete offline local file storage and management system with unlimited nested folders, custom metadata, and advanced filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
